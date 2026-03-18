@@ -1,0 +1,5 @@
+{
+  "name": "Secure Media Transmission Prototype",
+  "description": "A C++ prototype for secure media packet transmission over TCP using AES-256 and SHA-256.",
+  "requestFramePermissions": []
+}
